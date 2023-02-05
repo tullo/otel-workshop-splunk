@@ -7,7 +7,7 @@ go 1.19
 require (
 	github.com/signalfx/signalfx-go-tracing v1.12.0
 	github.com/signalfx/signalfx-go-tracing/contrib/net/http v1.12.0
-	github.com/tullo/otel-workshop v0.4.2
+	github.com/tullo/otel-workshop v1.0.1
 )
 
 require (
