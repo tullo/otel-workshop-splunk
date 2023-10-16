@@ -7,7 +7,6 @@ go 1.19
 require (
 	github.com/signalfx/signalfx-go-tracing v1.12.0
 	github.com/signalfx/signalfx-go-tracing/contrib/net/http v1.12.0
-	github.com/tullo/otel-workshop v1.0.3
 	github.com/tullo/otel-workshop/web/fib v1.0.3
 )
 
@@ -25,9 +24,9 @@ require (
 	github.com/signalfx/golib v2.5.1+incompatible // indirect
 	github.com/tinylib/msgp v1.1.8 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.42.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.42.0 // indirect
-	go.opentelemetry.io/otel v1.16.0 // indirect
-	go.opentelemetry.io/otel/metric v1.16.0 // indirect
-	go.opentelemetry.io/otel/trace v1.16.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.44.0 // indirect
+	go.opentelemetry.io/otel v1.18.0 // indirect
+	go.opentelemetry.io/otel/metric v1.18.0 // indirect
+	go.opentelemetry.io/otel/trace v1.18.0 // indirect
 	golang.org/x/sys v0.8.0 // indirect
 )
