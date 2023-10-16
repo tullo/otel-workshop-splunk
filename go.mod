@@ -23,7 +23,7 @@ require (
 	github.com/philhofer/fwd v1.1.2 // indirect
 	github.com/signalfx/golib v2.5.1+incompatible // indirect
 	github.com/tinylib/msgp v1.1.8 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.42.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.44.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.44.0 // indirect
 	go.opentelemetry.io/otel v1.18.0 // indirect
 	go.opentelemetry.io/otel/metric v1.18.0 // indirect
