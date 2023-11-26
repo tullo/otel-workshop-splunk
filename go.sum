@@ -312,6 +312,8 @@ github.com/tinylib/msgp v1.1.9/go.mod h1:BCXGB54lDD8qUEPmiG0cQQUANC4IUQyB2ItS2UD
 github.com/tmc/grpc-websocket-proxy v0.0.0-20170815181823-89b8d40f7ca8/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
 github.com/tullo/otel-workshop/web/fib v1.0.3 h1:OO6Fh8xkaT+vJXTpFVrfYwdftaOx0jPFJxoQoSRyw6c=
 github.com/tullo/otel-workshop/web/fib v1.0.3/go.mod h1:X6H/IDwqeHHwdYHbnXvDwHlWdGUYunRINFLncnvV7sw=
+github.com/tullo/otel-workshop/web/fib v1.0.4 h1:Z6tpUYz84JdqbCscg7Xn7ie/kBUphKAfudzXtYKK1cs=
+github.com/tullo/otel-workshop/web/fib v1.0.4/go.mod h1:kfUN07kBvHp8nMqHpXM2SjeYgU+dI/p6vyMdMEzOIWM=
 github.com/urfave/cli v1.20.0/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
 github.com/urfave/cli v1.22.1/go.mod h1:Gos4lmkARVdJ6EkW0WaNv/tZAAMe9V7XWyB60NtXRu0=
 github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2/go.mod h1:UETIi67q53MR2AWcXfiuqkDkRtnGDLqkBTpCHuJHxtU=

@@ -7,7 +7,7 @@ go 1.21
 require (
 	github.com/signalfx/signalfx-go-tracing v1.12.0
 	github.com/signalfx/signalfx-go-tracing/contrib/net/http v1.12.0
-	github.com/tullo/otel-workshop/web/fib v1.0.3
+	github.com/tullo/otel-workshop/web/fib v1.0.4
 )
 
 require (
