@@ -1,6 +1,6 @@
 module github.com/tullo/otel-workshop-splunk
 
-go 1.21
+go 1.22
 
 // replace github.com/tullo/otel-workshop => /home/anda/code/otel/workshop
 
